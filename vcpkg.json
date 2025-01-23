@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "boost",
+    "openssl",
+    "websocketpp",
+    "nlohmann-json",
+    "fmt",
+    "protobuf"
+  ]
+}
